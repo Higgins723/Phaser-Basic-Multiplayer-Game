@@ -1,0 +1,11 @@
+{
+  "name": "basic-mmo-phaser",
+  "version": "0.0.1",
+  "description": " Basic multiplayer made with Phaser, Node.js and Socket.io ",
+  "main": "server.js",
+  "author": "Josh Higgins",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
